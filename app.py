@@ -7,7 +7,7 @@ restaurante_freddy = Restaurante("Freddy`s Pizza", "Pizzaria")
 restaurante_freddy.receber_avaliacao('Chris', 7)
 restaurante_freddy.receber_avaliacao('Rafa', 10)
 restaurante_freddy.receber_avaliacao('Rodrigo', 8)
-
+restaurante_freddy.receber_avaliacao('Rodrigo', 10)
 
 
 def main():
