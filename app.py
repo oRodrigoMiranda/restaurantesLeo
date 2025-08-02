@@ -12,5 +12,10 @@ restaurante_freddy.receber_avaliacao('Rodrigo', 8)
 def main():
     Restaurante.listar_restaurantes()
 
+
+
+
+
+
 if __name__ == '__main__': 
     main()
